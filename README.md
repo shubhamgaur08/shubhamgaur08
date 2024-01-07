@@ -1,4 +1,4 @@
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif]
 # 💫 About Me:
 <br>🌱 I’m currently learning Full Stack , MERN , and React Js<br>💬 Ask me about MERN Stack<br>⚡ Fun fact - Code is like music; each line is a note, <br>                          every function a melody.
 
