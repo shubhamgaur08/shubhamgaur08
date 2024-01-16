@@ -17,5 +17,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shubhamgaur08&icon=5&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shubhamgaur08&icon=5&color=3)](https://visitcount.itsvg.in)
 
