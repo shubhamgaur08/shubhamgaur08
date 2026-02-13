@@ -1,68 +1,92 @@
-
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto" alt="coding animation" />
-
-  <h1 align="center">Hi there, I'm Shubham Gaur! 👋</h1>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Native+Developer;MERN+Stack+Expert;Building+Scalable+Apps;Code+is+visual+poetry" alt="Typing SVG" />
+  <a href="https://shubhamgaur.vercel.app">
+    <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="100%" alt="MasterHead" />
   </a>
 
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Shubham+Gaur;Full+Stack+Native+Developer;MERN+Stack+Expert;Building+Digital+Experiences" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    "Code is like music; each line is a note, every function a melody."
+  </p>
+
+  <p align="center">
+    <a href="https://facebook.com/shubhamg007">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://instagram.com/gaur.shubhu">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/shubhamgaur07">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+
 </div>
 
 <br/>
+
+### 🧐 About Me
+
+- 🔭 I’m currently working as a **Full Stack React Native Developer**
+- 💬 Ask me about **MERN Stack, React Native, and System Design**
+- 🌱 I'm constantly learning and exploring new technologies to build scalable apps.
 
 <div align="center">
+  <br/>
   
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/shubhamg007)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gaur.shubhu)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamgaur07)
-  
+  > **⚠️ Note on Activity**  
+  > Approximately **50% of my repositories are private**. These include **live production applications**, **client projects**, and **proprietary software**. What you see here is just a glimpse of my open-source journey!
+
+  <br/>
 </div>
 
-<br/>
+---
 
-## 🚀 About Me
-
-I'm a passionate **Full Stack React Native Developer** turning complex problems into elegant, cross-platform solutions. I treat code like music—every line is a note, and every function is a melody.
-
-> 🔒 **Note on Activity**: Approximately **50% of my repositories are private**. These include live production applications, client projects, and proprietary software. My public graph shows my open-source journey and personal experiments!
-
-<br/>
-
-## �️ Tech Stack
+### 💻 Tech Stack
 
 <div align="center">
 
 | **Frontend & Mobile** | **Backend & Database** | **Tools & Others** |
 |:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br> ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) <br> ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 
 </div>
 
 <br/>
 
-## ⚡ GitHub Stats
+### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamgaur08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Shubham's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamgaur08&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Shubham's Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgaur08&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubhamgaur08&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
 </div>
 
 <br/>
 
-## ✍️ Random Dev Quote
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamgaur08&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Shubham's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamgaur08&theme=radical&hide_border=true&bg_color=00000000" alt="Shubham's Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgaur08&theme=radical&layout=compact&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </div>
 
 <br/>
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
 
 ---
 
@@ -70,5 +94,4 @@ I'm a passionate **Full Stack React Native Developer** turning complex problems 
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=shubhamgaur08&icon=5&color=3" alt="Visitor Count" />
   </a>
-  <p><i>Thanks for visiting!</i></p>
 </div>
