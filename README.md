@@ -7,7 +7,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Shubham+Gaur;Full+Stack+Native+Developer;MERN+Stack+Expert;Building+Digital+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Shubham+Gaur;Full+Stack+Native+Developer;MERN+Stack+Expert;Building+Digital+Experiences" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -61,23 +61,15 @@
 
 <br/>
 
-### 🏆 Trophies
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhamgaur08&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
-
-<br/>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamgaur08&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Shubham's GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamgaur08&theme=radical&hide_border=true&bg_color=00000000" alt="Shubham's Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgaur08&theme=radical&layout=compact&hide_border=true&bg_color=00000000" alt="Top Languages" />
+
 </div>
 
 <br/>
@@ -88,10 +80,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
----
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=shubhamgaur08&icon=5&color=3" alt="Visitor Count" />
-  </a>
-</div>
+
