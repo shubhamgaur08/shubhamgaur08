@@ -8,7 +8,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Shubham+Gaur;Full+Stack+Native+Developer;MERN+Stack+Specialist;Architecting+Scalable+Solutions;Crafting+Digital+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Shubham+Gaur;Full+Stack+Native+Developer;MERN+Stack+Specialist;Architecting+Scalable+Solutions;Crafting+Digital+Experiences" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -36,7 +36,7 @@
   <br/>
 
   <!-- Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=shubhamgaur08&label=Profile%20Views&color=blue&style=flat-square" alt="watchers"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=shubhamgaur08&label=Profile%20Views&color=blue&style=flat-square" alt="watchers"/> -->
 
 </div>
 
@@ -92,17 +92,16 @@
 <div align="center">
   
   <!-- Trophies (Optional, looks cool) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shubhamgaur08&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
   </a>
-  <br/><br/>
+  <br/><br/> -->
 
   <!-- Stats Grid -->
-  <!-- Stats Grid -->
-  <div align="center">
+  <!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=shubhamgaur08&show_icons=true&hide_title=false&count_private=true&theme=radical&hide_border=true&bg_color=00000000" height="180" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgaur08&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=8" height="180" alt="languages graph" />
-  </div>
+  </div> -->
 
   <br/>
 
