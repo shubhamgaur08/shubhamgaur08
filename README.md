@@ -49,7 +49,7 @@
   ## ⚡ About Me
 
   > **⚠️ Important Check**  
-  > Approximately **50% of my repositories are private**.  
+  > Approximately **60% of my repositories are private**.  
   > These include **live production applications**, **client projects**, and **proprietary software**.  
   > *What you see here is just a glimpse of my open-source journey!*
 
